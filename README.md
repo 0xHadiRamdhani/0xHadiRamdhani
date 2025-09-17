@@ -79,16 +79,16 @@ Saya seorang **17 tahun** siswa SMK Bani Masum Subang, Jawa Barat yang berasal d
 ## 📱 Featured Projects
 
 ### 🏆 Mobile Apps (Flutter)
-- **[Project Name 1]** - Deskripsi singkat aplikasi mobile yang sudah dibuat
-- **[Project Name 2]** - Aplikasi lain dengan fitur-fitur unggulan
+- **Auto Dork** - Membuat dork dan mencari website yang rentan serangan sql injection
+- **CodeCrafters** - Aplikasi yang menyediakan jasa pentesting dan jasa pembuatan website
 
 ### 🌐 Web Applications (React/Next.js)  
-- **[Project Name 3]** - Web application dengan React.js
-- **[Project Name 4]** - Next.js project dengan fitur modern
+- **Portofolio** - Web portofolio diri saya
+- **Bamboos** - Multi DevTools dan Hacking
 
 ### ⚡ Backend Services
-- **[API Project 1]** - RESTful API menggunakan Flask
-- **[API Project 2]** - Express.js backend service
+- **Hacking And Development** - Api penetrasi dan tools untuk coding
+- **MalwareScan** - Analisis malware di sebuah file dan aplikasi android
 
 ## 📈 Journey & Goals
 
