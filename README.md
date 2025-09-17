@@ -109,4 +109,4 @@ Saya seorang **17 tahun** siswa SMK Bani Masum Subang, Jawa Barat yang berasal d
 
 ---
 
-⭐️ From [Your Name] with ❤️ from Cimahi, now in Subang, Jawa Barat
+⭐️ From Hadi Ramdhani with ❤️ from Cimahi, now in Subang, Jawa Barat
