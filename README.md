@@ -52,7 +52,7 @@ Saya seorang **17 tahun** siswa SMK Bani Masum Subang, Jawa Barat yang berasal d
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiOnZero&show_icons=true&theme=radical)
 
 ## 🛠️ Languages and Tools
 
