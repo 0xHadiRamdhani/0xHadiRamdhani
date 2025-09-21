@@ -1,112 +1,86 @@
-# Hi there! 👋 I'm Hadi Ramdhani
+<h1 align="center">Hey 👋 I'm Hadi Ramdhani</h1>
 
-## 👨‍💻 About Me
+###
 
-Saya seorang **17 tahun** siswa SMK Bani Masum Subang, Jawa Barat yang berasal dari Cimahi. Passionate developer yang fokus pada pengembangan aplikasi mobile dan web dengan teknologi modern.
+<p align="center">
+  <strong>🎓 SMK Student at Bani Masum Subang | 🏠 Originally from Cimahi</strong><br>
+  <em>Javanese-Sundanese heritage with passion for coding</em>
+</p>
 
-📍 **Location:** Subang, Jawa Barat, Indonesia  
-🏠 **Origin:** Cimahi, Jawa Barat  
-🎓 **Education:** SMK Bani Masum, Subang  
-🎂 **Age:** 17 years old
+###
 
-## 🚀 Tech Stack & Skills
-
-### Mobile Development (Expert 🏆)
-- **Flutter** - Framework utama untuk pengembangan aplikasi mobile cross-platform
-- **Dart** - Bahasa pemrograman untuk Flutter
-- Android & iOS deployment
-- State management (Provider, Bloc, Riverpod)
-- Firebase integration
-- REST API integration
-
-### Web Development (Intermediate 📈)
-- **React.js** - Library untuk membangun user interface
-- **Next.js** - Framework React untuk production
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Responsive web design
-- Component-based architecture
-
-### Backend Development
-- **Flask** (Python) - Lightweight web framework
-- **Express.js** (Node.js) - Web application framework
-- RESTful API development
-- Database integration
-- Authentication & authorization
-
-## 💼 What I Do
-
-🔥 **Mobile App Development** - Specialized dalam membuat aplikasi mobile yang performant dan user-friendly menggunakan Flutter
-
-🌐 **Web Development** - Mengembangkan aplikasi web modern dengan React.js dan Next.js
-
-⚡ **Backend Services** - Membangun API dan layanan backend yang scalable
-
-## 🌱 Currently Learning
-
-- Advanced React patterns dan hooks
-- Next.js optimization techniques  
-- Advanced state management
-- Modern CSS frameworks
-- Cloud deployment strategies
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HadiOnZero&show_icons=true&theme=radical)
-
-## 🛠️ Languages and Tools
-
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
-## 📱 Featured Projects
+###
 
-### 🏆 Mobile Apps (Flutter)
-- **Auto Dork** - Membuat dork dan mencari website yang rentan serangan sql injection
-- **CodeCrafters** - Aplikasi yang menyediakan jasa pentesting dan jasa pembuatan website
+<div align="center">
+  <h3>🚀 My Skills</h3>
+  <p>
+    <strong>📱 Mobile Development (Expert):</strong> Flutter, Dart, Firebase<br>
+    <strong>🌐 Web Development (Intermediate):</strong> Next.js, ReactJS, TypeScript, Tailwind CSS<br>
+    <strong>🛠️ Tools:</strong> Git, VS Code, Android Studio
+  </p>
+</div>
 
-### 🌐 Web Applications (React/Next.js)  
-- **Portofolio** - Web portofolio diri saya
-- **Bamboos** - Multi DevTools dan Hacking
+###
 
-### ⚡ Backend Services
-- **Hacking And Development** - Api penetrasi dan tools untuk coding
-- **MalwareScan** - Analisis malware di sebuah file dan aplikasi android
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Tiktok&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tiktok logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-## 📈 Journey & Goals
+###
 
-**Current Focus:**
-- Meningkatkan skill web development dari intermediate ke advanced
-- Mempelajari best practices dalam React.js dan Next.js
-- Eksplorasi teknologi baru dalam mobile development
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-**Future Goals:**
-- Menjadi full-stack developer yang handal
-- Kontribusi ke open source projects
-- Membangun startup teknologi sendiri
+###
 
-## 📫 Let's Connect!
+<div align="center">
+  <h3>💻 What I'm Working On</h3>
+  <p>
+    🔭 Building mobile apps with Flutter<br>
+    🌱 Learning advanced Next.js and React patterns<br>
+    📚 Exploring full-stack development with Next.js<br>
+    🎯 Improving my web development skills
+  </p>
+</div>
 
-- 📧 **Email:** hadsxdev@gmail.com
-- 📱 **Instagram:** @hadisoftwareengineer
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HadiOnZero/HadiOnZero/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HadiOnZero/HadiOnZero/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HadiOnZero/HadiOnZero/output/pacman-contribution-graph.svg">
+</picture>
 
-⭐️ From Hadi Ramdhani with ❤️ from Cimahi, now in Subang, Jawa Barat
+###
+
+<div align="center">
+  <p>
+    <strong>🇮🇩 "Dari Cimahi untuk Indonesia, satu kode pada satu waktu"</strong><br>
+    <em>From Cimahi for Indonesia, one line of code at a time</em>
+  </p>
+</div>
