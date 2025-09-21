@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm a Mobile & Web Developer from Cimahi!</h1>
+<h1 align="center">Hey 👋 I'm Hadi Ramdhani</h1>
 
 ###
 
@@ -26,6 +26,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
@@ -36,6 +42,7 @@
   <p>
     <strong>📱 Mobile Development (Expert):</strong> Flutter, Dart, Firebase<br>
     <strong>🌐 Web Development (Intermediate):</strong> Next.js, ReactJS, TypeScript, Tailwind CSS<br>
+    <strong>⚙️ Backend Development:</strong> Node.js Express, Python Flask<br>
     <strong>🛠️ Tools:</strong> Git, VS Code, Android Studio
   </p>
 </div>
@@ -64,8 +71,9 @@
   <p>
     🔭 Building mobile apps with Flutter<br>
     🌱 Learning advanced Next.js and React patterns<br>
-    📚 Exploring full-stack development with Next.js<br>
-    🎯 Improving my web development skills
+    📚 Developing APIs with Node.js Express and Python Flask<br>
+    🎯 Exploring full-stack development<br>
+    💡 Improving my backend architecture skills
   </p>
 </div>
 
