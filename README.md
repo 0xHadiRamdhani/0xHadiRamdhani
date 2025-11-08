@@ -24,9 +24,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=bun" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=elysia" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
