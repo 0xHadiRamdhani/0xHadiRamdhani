@@ -41,7 +41,7 @@
   <h3>🚀 My Skills</h3>
   <p>
     <strong>📱 Mobile Development (Expert):</strong> Flutter, Dart, Firebase<br>
-    <strong>🌐 Web Development (Intermediate):</strong> Next.js, ReactJS, TypeScript, Tailwind CSS<br>
+    <strong>🌐 Web Development (Beginner):</strong> Next.js, ReactJS, TypeScript, Tailwind CSS<br>
     <strong>⚙️ Backend Development:</strong> Node.js Express, Python Flask<br>
     <strong>🛠️ Tools:</strong> Git, VS Code, Android Studio
   </p>
