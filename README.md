@@ -43,7 +43,7 @@
     <strong>📱 Mobile Development (Expert):</strong> Flutter, Dart, Firebase<br>
     <strong>🌐 Web Development (Beginner):</strong> Next.js, ReactJS, TypeScript, Tailwind CSS<br>
     <strong>⚙️ Backend Development:</strong> BunJS Elysia, Python Flask<br>
-    <strong>🛠️ Tools:</strong> Git, VS Code, Android Studio
+    <strong>🛠️ Tools:</strong> Git, VS Code, Android Studio, Xcode, Anti Gravity
   </p>
 </div>
 
