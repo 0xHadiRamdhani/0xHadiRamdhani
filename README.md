@@ -60,8 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=0xHadiRamdhani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=0xHadiRamdhani&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://camo.githubusercontent.com/9a770fac88200edbfd9c27324a9e5c02cb0e360604ee434f98f49ae3208deca2/68747470733a2f2f6d656469612e74656e6f722e636f6d2f3572792d3230306845724d41414141642f6861636b65722d6861636b65722d6d616e2e676966" height="150" alt="streak graph"  />
 </div>
 
 ###
