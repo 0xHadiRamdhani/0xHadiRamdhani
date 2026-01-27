@@ -40,7 +40,7 @@
 <div align="center">
   <h3>🚀 My Skills</h3>
   <p>
-    <strong>📱 Mobile Development (Expert):</strong> Flutter, Dart, Firebase<br>
+    <strong>📱 Mobile Development (Expert):</strong> Flutter, Dart, Firebase, React Native, Expo, Supabase<br>
     <strong>🌐 Web Development (Beginner):</strong> Next.js, ReactJS, TypeScript, Tailwind CSS<br>
     <strong>⚙️ Backend Development:</strong> BunJS Elysia, Python Flask<br>
     <strong>🛠️ Tools:</strong> Git, VS Code, Android Studio, Xcode, Anti Gravity
