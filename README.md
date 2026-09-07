@@ -79,12 +79,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xHadiRamdhani&show_icons=true&locale=en&layout=compact" alt="0xHadiRamdhani" />
-</div>
-
-###
-
-<div align="center">
   <p>
     <strong>🇮🇩 "Dari Cimahi untuk Indonesia, satu kode pada satu waktu"</strong><br>
     <em>From Cimahi for Indonesia, one line of code at a time</em>
