@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  <strong>🎓 17 years old | SMK Student at Bani Masum Subang | 🏠 Originally from Cimahi</strong><br>
+  <strong>🎓 18 years old | SMK Student at Bani Masum Subang | 🏠 Originally from Cimahi</strong><br>
   <em>Javanese-Sundanese heritage with passion for coding</em>
 </p>
 
